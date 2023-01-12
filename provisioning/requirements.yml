@@ -1,0 +1,7 @@
+---
+collections:
+  - name: community.postgresql
+    version: 2.3.2
+roles:
+  - version: 3.4.2
+    name: geerlingguy.postgresql
